@@ -1,0 +1,41 @@
+.wrapperForMealDetail {
+  display: flex;
+  flex-direction: row;
+}
+
+.sideBar {
+  width: 30%;
+  border-left: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  text-decoration: none;
+  list-style: none;
+}
+
+.nameOfDish {
+  text-align: center;
+}
+
+.nativeNameAndArea {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.img {
+  width: 400px;
+  height: 400px;
+}
+
+.preparation {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}

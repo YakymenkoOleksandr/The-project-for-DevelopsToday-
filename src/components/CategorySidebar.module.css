@@ -1,0 +1,17 @@
+.sidebar {
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  font-size: 26px;
+}
+
+.img {
+  width: 200px;
+  height: 200px;
+}
+
+.listItem {
+  list-style: none;
+}

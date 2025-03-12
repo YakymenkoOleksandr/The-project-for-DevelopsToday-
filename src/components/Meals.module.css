@@ -1,0 +1,21 @@
+.wrapperForDish {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
+
+.info {
+  width: 350px;
+  height: 350px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.img {
+  width: 250px;
+  height: 250px;
+}
